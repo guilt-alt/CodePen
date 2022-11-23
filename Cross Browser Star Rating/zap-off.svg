@@ -1,16 +1,16 @@
-<svg width="4" height="8" viewBox="0 0 4 8" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g filter="url(#filter0_i_42_4)">
-<path d="M4 2.5C3.28929 3.03 2.5 3.5 2 3C1.5 2.5 1.83737 1.35807 3 0C0.986724 0.821247 0.376046 1.65216 0.5 4C1.3563 3.46136 2 3.5 2 4C2 4.5 1.39512 6.27674 0 8C2.45942 6.57201 3.58813 4.85127 4 2.5Z" fill="#FFE600"/>
-</g>
-<defs>
-<filter id="filter0_i_42_4" x="0" y="0" width="4" height="8" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dx="10" dy="10"/>
-<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0.435294 0 0 0 0 0.435294 0 0 0 0 0.435294 0 0 0 1 0"/>
-<feBlend mode="normal" in2="shape" result="effect1_innerShadow_42_4"/>
-</filter>
-</defs>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="4"
+     height="8"
+     fill="none">
+  <defs>
+    <filter id="a">
+      <feColorMatrix in="a1"
+                     type="saturate"
+                     values="0" />
+    </filter>
+  </defs>
+  <g filter="url(#a)">
+    <path fill="red"
+          d="M4 2.5c-.71.53-1.5 1-2 .5s-.163-1.642 1-3C.987.821.376 1.652.5 4 1.356 3.461 2 3.5 2 4s-.605 2.277-2 4c2.46-1.428 3.588-3.149 4-5.5Z" />
+  </g>
 </svg>
