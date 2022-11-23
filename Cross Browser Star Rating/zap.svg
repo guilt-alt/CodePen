@@ -1,7 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg"
      width="4"
      height="8"
-     fill="none">
+     fill="none"
+     viewBox="0 0 4 8">
   <path fill="#FFE600"
         d="M4 2.5c-.71.53-1.5 1-2 .5s-.163-1.642 1-3C.987.821.376 1.652.5 4 1.356 3.461 2 3.5 2 4s-.605 2.277-2 4c2.46-1.428 3.588-3.149 4-5.5Z" />
 </svg>

@@ -1,7 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="6"
+     width="7"
      height="8"
-     fill="none">
+     fill="none"
+     viewBox="0 0 7 8">
   <path fill="red"
         stroke="#000"
         stroke-linejoin="round"

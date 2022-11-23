@@ -1,7 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg"
      width="7"
      height="8"
-     fill="none">
+     fill="none"
+     viewBox="0 0 7 8">
   <path fill="red"
         d="M3 2s2.04 1.012 2-2c1.695 1.724 1.392 4.195-2 8C.46 5.22-1.03 1.97 1 0c.074 2.974 2 2 2 2Z" />
 </svg>
